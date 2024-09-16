@@ -32,18 +32,17 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-      'service_l86pi0o',
-      'template_cqrqmv6',
-        // import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        // import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,        
+      '####,
+      '####',
+     
         {
           from_name: form.name,
-          to_name: "Anamika",
+          to_name: "",
           from_email: form.email,
-          to_email: "anamika.rationaletranquillity@gmail.com",
+          to_email: "",
           message: form.message,
         },
-        'x5JxB1OkdFsSl0lq1',
+        '',
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY,
       )
       .then(
