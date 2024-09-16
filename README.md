@@ -15,7 +15,7 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, contact us form and header.
 
 👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
 
@@ -29,17 +29,7 @@
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
@@ -62,9 +52,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>.vscode/settings.json</code></summary>
