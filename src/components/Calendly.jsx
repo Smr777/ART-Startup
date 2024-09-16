@@ -25,7 +25,7 @@ const CalendlyWidget = () => {
       {/* Calendly inline widget begin */}
       <div 
         className="calendly-inline-widget" 
-        data-url="https://calendly.com/anamika-rationaletranquillity/siscovery-session?primary_color=0064ff" 
+        data-url="#link#?primary_color=0064ff" 
         style={{ minWidth: '320px', height: '700px', backgroundColor: '#FFFFFF' }}
       />
       {/* Calendly inline widget end */}
